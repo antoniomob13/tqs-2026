@@ -12,6 +12,7 @@ from src.validators import validar_cpf, validar_email
 
 
 def test_aceita_cpf_valido():
+    x=0
     assert validar_cpf("111.444.777-35") is True
 
 
