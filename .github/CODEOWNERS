@@ -5,8 +5,10 @@
 # para ativar a atribuição automática.
 #
 # Exemplo:
-#   * @SEU-USUARIO
+#   @antoniomob13
 #
 # Em projetos maiores, você pode dividir por pasta:
 #   src/auth/   @time-de-seguranca
 #   docs/       @time-de-conteudo
+
+* @antoniomob13
